@@ -12,7 +12,7 @@
 
 ## 🚀 Features
 - Simple and lightweight graphical interface  
-- Easy integration with `xdvdfs.exe`
+- Easy integration with [xdvdfs](https://github.com/antangelo/xdvdfs)
 
 ---
 
