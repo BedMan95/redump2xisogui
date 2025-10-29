@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Redump2XISO.ico" alt="Redump2XISO Logo" width="220">
+  <img src="Redump2XISO.ico" alt="Redump2XISO Logo" width="150">
 </p>
 
 <h1 align="center">Redump2XISOGUI</h1>
