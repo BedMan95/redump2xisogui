@@ -24,7 +24,6 @@ This tool requires `xdvdfs.exe` to perform the conversion process.
 ---
 
 ## 📦 Notes
-Make sure `xdvdfs.exe` is in the same folder or manually selected when running the application.  
 This tool is designed for **original Xbox (OG Xbox)** game images only — Xbox 360 not tested yet.
 
 ---
