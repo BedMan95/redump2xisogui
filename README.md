@@ -1,2 +1,2 @@
-# redump2xiso
-GUI aplication build with powershell & xdvdfs to convert xbox redump iso into xiso
+# Redump2XISO
+GUI aplication build with powershell & need xdvdfs.exe to convert xbox redump iso into xiso
