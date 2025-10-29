@@ -1,7 +1,13 @@
-# Redump2XISOGUI
+<p align="center">
+  <img src="Redump2XISO.ico" alt="Redump2XISO Logo" width="220">
+</p>
 
-**Redump2XISOGUI** is a PowerShell-based GUI application that converts **Xbox Redump ISO** files into **XISO** format.  
-This tool requires `xdvdfs.exe` to perform the conversion process.
+<h1 align="center">Redump2XISOGUI</h1>
+
+<p align="center">
+  A simple PowerShell-based GUI tool for converting <b>Xbox Redump ISO</b> files into <b>XISO</b> format.  
+  Requires <code>xdvdfs.exe</code> for the conversion process.
+</p>
 
 ---
 
