@@ -14,11 +14,12 @@ This tool requires `xdvdfs.exe` to perform the conversion process.
 ## 🧩 How to Use
 
 1. **Download** the latest version from the [Releases](../../releases/latest) page  
-2. **Extract** all files to any folder  
-3. **Select** your `xdvdfs.exe` file (required for conversion)  
-4. **Select** the input `.iso` file (Redump format)  
-5. Click **"PACK TO XISO"**  
-6. Wait until the process completes — the `.xiso` file will be generated
+2. **Extract** all files to any folder
+3. **Open** `redump2xiso.exe` file
+4. **Select** `xdvdfs.exe` file (included in release)  
+5. **Select** the input `.iso` file (Redump format)  
+6. Click **"PACK TO XISO"**  
+7. Wait until the process completes — the `.xiso` file will be generated
 
 ---
 
