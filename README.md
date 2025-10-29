@@ -6,7 +6,6 @@
 
 <p align="center">
   A simple PowerShell-based GUI tool for converting <b>Xbox Redump ISO</b> files into <b>XISO</b> format.  
-  Requires <code>xdvdfs.exe</code> for the conversion process.
 </p>
 
 ---
